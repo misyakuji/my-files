@@ -1,0 +1,398 @@
+[
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2023-09-30",
+    "notes": "微信借款",
+    "transactionType": "LOAN",
+    "amount": 3500
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2023-12-24",
+    "notes": "微信借款",
+    "transactionType": "LOAN",
+    "amount": 2500
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-02-05",
+    "notes": "银行卡借款",
+    "transactionType": "LOAN",
+    "amount": 10000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-02-08",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 25800
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-02-17",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 4855
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-02-25",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 2120
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-02-28",
+    "notes": "脚垫钱",
+    "transactionType": "REPAYMENT",
+    "amount": -260
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-02",
+    "notes": "信用卡还款",
+    "transactionType": "REPAYMENT",
+    "amount": -1000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-05",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 12506
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-05",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 8065
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-06",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 6458
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-06",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -20000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-12",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 1578
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-25",
+    "notes": "信用卡还款",
+    "transactionType": "REPAYMENT",
+    "amount": -4700
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-27",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 3688
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-03-29",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 725
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-04-01",
+    "notes": "信用卡刷款",
+    "transactionType": "LOAN",
+    "amount": 534
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-04-14",
+    "notes": "信用卡四月份利息",
+    "transactionType": "INTEREST",
+    "amount": 733.88
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-05-02",
+    "notes": "微信还款",
+    "transactionType": "REPAYMENT",
+    "amount": -3000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-05-14",
+    "notes": "信用卡五月份利息",
+    "transactionType": "INTEREST",
+    "amount": 609.35
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-06-01",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -1000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-06-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -1499
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-06-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -270
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-06-14",
+    "notes": "信用卡六月份利息",
+    "transactionType": "INTEREST",
+    "amount": 553.11
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-07-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2300
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-07-14",
+    "notes": "信用卡七月份利息",
+    "transactionType": "INTEREST",
+    "amount": 524.67
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-08-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2500
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-08-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -500
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-08-14",
+    "notes": "信用卡八月份利息",
+    "transactionType": "INTEREST",
+    "amount": 547.76
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-09-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2300
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-09-14",
+    "notes": "信用卡九月份利息",
+    "transactionType": "INTEREST",
+    "amount": 531.02
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-10-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2300
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-10-14",
+    "notes": "信用卡十月份利息",
+    "transactionType": "INTEREST",
+    "amount": 528.39
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-11-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2300
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-11-11",
+    "notes": "借款",
+    "transactionType": "LOAN",
+    "amount": 1000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-11-14",
+    "notes": "信用卡十一月份利息",
+    "transactionType": "INTEREST",
+    "amount": 560.33
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-12-02",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2300
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2024-12-14",
+    "notes": "信用卡十二月份利息",
+    "transactionType": "INTEREST",
+    "amount": 524.45
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-01-02",
+    "notes": "微信还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2215
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-01-14",
+    "notes": "信用卡一月份利息",
+    "transactionType": "INTEREST",
+    "amount": 523.99
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-02-02",
+    "notes": "微信还款",
+    "transactionType": "REPAYMENT",
+    "amount": -1632
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-02-14",
+    "notes": "信用卡二月份利息",
+    "transactionType": "INTEREST",
+    "amount": 488.36
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-03-14",
+    "notes": "信用卡三月份利息",
+    "transactionType": "INTEREST",
+    "amount": 486.93
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-04-14",
+    "notes": "信用卡四月份利息",
+    "transactionType": "INTEREST",
+    "amount": 481.48
+  }
+]
