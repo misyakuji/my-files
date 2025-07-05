@@ -394,5 +394,32 @@
     "notes": "信用卡四月份利息",
     "transactionType": "INTEREST",
     "amount": 481.48
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-05-14",
+    "notes": "信用卡五月份利息",
+    "transactionType": "INTEREST",
+    "amount": 444.00
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-06-14",
+    "notes": "信用卡六月份利息",
+    "transactionType": "INTEREST",
+    "amount": 440.70
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-07-04",
+    "notes": "微信还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2000
   }
 ]
