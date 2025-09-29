@@ -421,5 +421,50 @@
     "notes": "微信还款",
     "transactionType": "REPAYMENT",
     "amount": -2000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-07-14",
+    "notes": "信用卡七月份利息",
+    "transactionType": "INTEREST",
+    "amount": 404.16
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-08-04",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -12000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-08-14",
+    "notes": "信用卡八月份利息",
+    "transactionType": "INTEREST",
+    "amount": 330.93
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-09-01",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2000
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-09-14",
+    "notes": "信用卡九月份利息",
+    "transactionType": "INTEREST",
+    "amount": 187.52
   }
 ]
