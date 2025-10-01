@@ -466,5 +466,14 @@
     "notes": "信用卡九月份利息",
     "transactionType": "INTEREST",
     "amount": 187.52
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-09-30",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -11200
   }
 ]
