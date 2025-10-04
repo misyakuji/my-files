@@ -475,5 +475,14 @@
     "notes": "支付宝还款",
     "transactionType": "REPAYMENT",
     "amount": -11200
+  },
+  {
+    "borrower": {
+        "id": 1
+    },
+    "transactionDate": "2025-10-03",
+    "notes": "支付宝还款",
+    "transactionType": "REPAYMENT",
+    "amount": -2000
   }
 ]
